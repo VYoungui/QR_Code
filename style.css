@@ -1,0 +1,53 @@
+body{
+    height: 100vh;
+    background-color: #c5d3ee;
+
+}
+.main{
+    margin: auto;
+    width: 340px;
+    height: 550px;
+    border: 1px gray;
+    overflow: hidden;
+    background-color: white;
+    border-radius: 15px;
+
+}
+
+.img-container{
+    margin: 15px auto;
+    width: 310px;
+    height: 300px;
+    padding-bottom: 10px;
+
+
+}
+
+.QR-img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.text-container{
+    color: #313030;
+    padding: 5px;
+    margin: auto;
+    width: 280px;
+    height: auto;
+}
+
+.text1 {
+    font-size: 22px;
+    font-family: "Outfit", sans-serif;
+    text-align: center;
+    font-weights: 400, 700;
+}
+
+.text{
+    font-family: "Outfit", sans-serif;
+    color: #868686;
+    text-align: center;
+    font-size: 15px;
+    font-weights: 400, 700;
+}
